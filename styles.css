@@ -404,7 +404,7 @@ justify-self: center;
 }
 
 .services__container{
-  position: relative;
+  position: center;
   row-gap: 3rem;
 }
 
